@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-webpack",
+  "version": "1.0.0",
+  "description": "this is a simple team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxin402/nodejs-webpack.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webpack"
+  ],
+  "author": "wuxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxin402/nodejs-webpack/issues"
+  },
+  "homepage": "https://github.com/wuxin402/nodejs-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.5"
+  }
+}
